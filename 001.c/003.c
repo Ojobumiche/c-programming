@@ -16,7 +16,7 @@ int main()
 	int num;
 
 
-	printf("Enter two numbers");
+	printf("Enter a numbers");
 
 
 	scanf("%d". &num);
