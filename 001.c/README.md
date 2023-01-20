@@ -1,1 +1,1 @@
-c programming practical exercise.
+c programming practical exercise
